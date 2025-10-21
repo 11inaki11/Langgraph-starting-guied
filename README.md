@@ -93,7 +93,8 @@ In this context:
 
 LangGraph is a **powerful and flexible framework** for building agentic systems.  
 
-As Bret Taylor said:  
+I recently heard Bret Taylor (CEO of Sierra AI) say something along these lines:
+
 > “Today, everyone builds agents however they can — and in 5 years we’ll be embarrassed by how we do it.”
 
 For now, LangGraph is the most popular and standardized way to do it.  
